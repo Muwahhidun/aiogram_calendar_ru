@@ -3,11 +3,11 @@ requires      = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aiogram_calendar"
-version = "0.5.0"
+name = "aiogram_calendar_ru"
+version = "0.5.1"
 description = "Simple Inline Calendar & Date Selection tool for Aiogram Telegram bots"
 readme = "README.md"
-authors = [{ name = "Shamil Abdullaev", email = "x@muwahhid.ru" }]
+authors = [{ name = "Ваше Имя", email = "ваш_email@example.com" }]
 license = { file = "LICENSE.txt" }
 classifiers = [
     'Development Status :: 3 - Alpha',
@@ -31,4 +31,4 @@ requires-python = ">=3.8"
 dev = ["pytest", "pytest-asyncio"]
 
 [project.urls]
-Homepage = "https://github.com/noXplode/aiogram_calendar_ru"
+Homepage = "https://github.com/Muwahhidun/aiogram_calendar_ru"
